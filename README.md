@@ -16,6 +16,3 @@
 - Displays news headlines, descriptions, and sources.
 - Clicking on a news article takes you to the full article on the source's website.
 
-## Demo
-
-- Check out the live demo of the project: [News Project Demo](http://your-demo-url.com)
